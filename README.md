@@ -33,7 +33,7 @@ I'm a tech enthusiast from :indonesia: Surabaya, Indonesia who is passionate and
 *   🤝	Always open to collaborate on Graphic Design and Website Development related projects
 *	📫	Feel free to reach me out to discuss anything relating to my hobbies & interests below through the Social Media links provided above
 
-### :gear: So...I heard you wanna know my skills too!?
+### :gear: So...I heard you wanna know what I can do too!?
 
 *	Languages : Bahasa Indonesia (Native), Bahasa Jawa (Native), English (Fluent)
 *	Programming Languages : PHP, JavaScript, TypeScript (Still Learning)
